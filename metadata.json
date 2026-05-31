@@ -1,0 +1,6 @@
+{
+  "name": "DevAgent Studio",
+  "description": "Advanced AI coding agent and interactive developer sandbox workspace with terminal simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
